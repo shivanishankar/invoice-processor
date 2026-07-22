@@ -1,0 +1,29 @@
+INVOICE #INV-1012
+=====================================
+Vendor: Industrial Direct Corp
+Date: 2026-07-20
+Due Date: 2026-09-18
+
+ENTERPRISE ORDER - ANNUAL CONTRACT FULFILLMENT
+
+LINE ITEMS:
+---------------------------------------------------
+Item            Qty     Unit Price      Total
+---------------------------------------------------
+WidgetA          15      $150.00      $2,250.00
+WidgetB          10      $200.00      $2,000.00
+GadgetX           5      $240.00      $1,200.00
+MotorUnit         3    $1,800.00      $5,400.00
+ControlPCB       12       $95.00      $1,140.00
+SprocketA        30       $45.00      $1,350.00
+SprocketB        25       $60.00      $1,500.00
+---------------------------------------------------
+Subtotal                             $14,840.00
+Volume Discount (5%)                   -$742.00
+---------------------------------------------------
+TOTAL DUE:                           $14,098.00
+=====================================
+
+PO: PO-2026-ANN-042
+Contact: orders@industrialdirect.com
+Payment Terms: Net 45

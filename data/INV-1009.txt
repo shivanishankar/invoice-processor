@@ -1,0 +1,11 @@
+Invoice #: INV-1009
+Vendor: Shady Transactions Co.
+Date: 2026-07-21
+Due Date: 2026-08-21
+
+ITEMS:
+WidgetA: qty -5, unit price $150.00, total -$750.00
+WidgetB: qty -3, unit price $200.00, total -$600.00
+
+Subtotal: -$1,350.00
+Total: -$1,350.00

@@ -1,0 +1,19 @@
+Invoice from: Northern Supplies Ltd
+Invoice Number: INV-1006
+Invoice Date: 2026-07-17
+Due Date: 2026-08-17
+
+To: Acme Corp
+    123 Manufacturing Dr, Detroit MI
+
+-----------------------------------------------------
+Description        Qty    Unit Price      Total
+-----------------------------------------------------
+WidgetA             6       $150.00       $900.00
+WidgetB             2       $200.00       $400.00
+-----------------------------------------------------
+                           AMOUNT DUE:  $1,300.00
+-----------------------------------------------------
+
+Please remit payment by the due date.
+Questions? contact@northernsupplies.com

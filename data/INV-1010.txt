@@ -1,0 +1,12 @@
+INVO1CE #INV-1010
+Venddr: Acme Supliez
+Dat3: Jully 21st, 2026
+Du3 Dat3: Augst 21, 2026
+
+ITEM5:
+- Widgt A x 4 unitts @ $1500 each = $600.00
+- Wid9etB x 3 unitts @ $200.00 each = $600.00
+
+TOTaL: $1,200.00
+
+Paymt by: ASAP!!

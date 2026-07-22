@@ -1,0 +1,9 @@
+INVOICE
+
+Items purchased:
+- WidgetA × 4 units
+- WidgetB × 2 units
+
+Total: $1,000
+
+Please remit payment at your earliest convenience.

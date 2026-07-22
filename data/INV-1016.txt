@@ -1,0 +1,14 @@
+Invoice Number: INV-1016
+Vendor: TechGlobal Solutions
+Date: July 21, 2026
+Due: August 20, 2026
+
+Description         Qty    Price     Total
+------------------------------------------
+WidgetC              5    $175.00    $875.00
+WidgetA              3    $150.00    $450.00
+
+Total Due: $1,325.00
+
+Payment via: ACH
+Thank you for your business.

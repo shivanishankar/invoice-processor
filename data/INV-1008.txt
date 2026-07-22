@@ -1,0 +1,19 @@
+INVOICE INV-1008
+=====================================
+Vendor: FutureTech Industries
+Date: July 20, 2026
+Due Date: August 20, 2026
+
+-------------------------------------
+Item              Qty   Unit Price   Total
+-------------------------------------
+SuperGizmo          3     $850.00   $2,550.00
+MegaSprocket        7     $340.00   $2,380.00
+-------------------------------------
+SUBTOTAL:                           $4,930.00
+SHIPPING:                             $120.00
+TOTAL DUE:                          $5,050.00
+=====================================
+
+Remit to: FutureTech Industries
+Wire instructions included separately.

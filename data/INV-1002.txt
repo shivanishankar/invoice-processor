@@ -1,0 +1,17 @@
+INVOICE #INV-1002
+=====================================
+Vendor: TechGlobal Solutions
+Date: 07/18/2026
+Due Date: 08/18/2026
+
+LINE ITEMS:
+-------------------------------------
+Item       Qty    Unit Price    Total
+-------------------------------------
+GadgetX     20     $240.00    $4,800.00
+
+INVOICE TOTAL: $4,800.00
+-------------------------------------
+
+Note: Urgent fulfillment required.
+Payment terms: Net 30

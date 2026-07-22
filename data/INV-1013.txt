@@ -1,0 +1,12 @@
+INVOICE #INV-1013
+Vendor: Global Components Ltd
+Invoice Date: 2026-03-01
+Due Date: 2026-04-01
+
+Items:
+- WidgetA  × 3  @ $150.00 = $450.00
+- GadgetX  × 2  @ $240.00 = $480.00
+
+TOTAL: $930.00
+
+Note: This invoice is overdue. Please process immediately.

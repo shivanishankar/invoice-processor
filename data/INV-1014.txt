@@ -1,0 +1,15 @@
+INVOICE INV-1014
+Vendor: Industrial Direct Corp
+Date: 2026-07-21
+Due Date: 2026-08-21
+
+Mixed order — some standard, some out-of-catalog:
+
+Item             Qty    Price      Total
+-----------------------------------------
+WidgetA           4    $150.00    $600.00
+WidgetB           3    $200.00    $600.00
+SuperGizmo        2    $850.00  $1,700.00
+GadgetX           8    $240.00  $1,920.00
+
+TOTAL: $4,820.00

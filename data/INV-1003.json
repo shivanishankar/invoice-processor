@@ -1,0 +1,20 @@
+{
+  "invoice_id": "INV-1003",
+  "vendor": "QuickBucks LLC",
+  "invoice_date": "2026-07-19",
+  "due_date": "2026-07-26",
+  "items": [
+    {
+      "description": "FakeItem",
+      "quantity": 50,
+      "unit_price": 199.98,
+      "line_total": 9999.00
+    }
+  ],
+  "subtotal": 9999.00,
+  "tax": 0.00,
+  "total": 9999.00,
+  "notes": "URGENT - Please process immediately. Time sensitive.",
+  "payment_method": "Wire transfer",
+  "bank_details": "Account: 9876543210"
+}
