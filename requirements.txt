@@ -1,0 +1,29 @@
+# Core orchestration
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
+
+# LLM API
+openai>=1.30.0
+
+# Data validation
+pydantic>=2.5.0
+
+# PDF processing
+pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
+
+# CLI & display
+rich>=13.7.0
+click>=8.1.7
+
+# Environment
+python-dotenv>=1.0.0
+
+# Web dashboard
+streamlit>=1.32.0
+pandas>=2.0.0
+plotly>=5.18.0
+
+# PDF generation (for sample data)
+reportlab>=4.0.0
